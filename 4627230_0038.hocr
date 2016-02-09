@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4627230_0038.png"; bbox 0 0 2472 3161; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 350 1059 1912 1606">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 350 1059 1912 1606">
+     <span class='ocr_line' id='line_1_1' title="bbox 705 1059 1912 1277; baseline 0.007 -10"><span class='ocrx_word' id='word_1_1' title='bbox 705 1059 1278 1270; x_wconf 81' lang='lat' dir='ltr'>END</span> <span class='ocrx_word' id='word_1_2' title='bbox 1382 1063 1758 1277; x_wconf 76' lang='lat' dir='ltr'>oF</span> <span class='ocrx_word' id='word_1_3' title='bbox 1909 1198 1912 1200; x_wconf 93' lang='lat'><em>-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 350 1390 1611 1606; baseline 0.006 -7"><span class='ocrx_word' id='word_1_4' title='bbox 350 1458 352 1460; x_wconf 0' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_5' title='bbox 833 1390 1611 1606; x_wconf 90' lang='grc' dir='ltr'>ΤΙΤΙ.Ε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2375 297 2472 3161">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2375 297 2472 3161">
+     <span class='ocr_line' id='line_1_3' title="bbox 2375 297 2472 3161; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 2375 297 2472 3161; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
